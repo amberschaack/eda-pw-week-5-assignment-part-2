@@ -1,6 +1,5 @@
 header {
     background-color: darkblue;
-    color: lightcyan;
     text-align: center;
 }
 
@@ -12,4 +11,16 @@ body {
 main {
     background-color: lightgray;
     padding: 1em;
+}
+
+.info {
+    color: darkblue;
+}
+
+.mainHeader {
+    color: lightblue;
+}
+
+.secondaryHeader {
+    color: lightgray;
 }
